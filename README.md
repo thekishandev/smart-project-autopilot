@@ -27,7 +27,6 @@
 
 </div>
 
-<details>
 <summary><strong>Table of Contents</strong></summary>
 
 - [🌟 The Problem & Solution](#-the-problem--solution)
@@ -39,7 +38,6 @@
 - [📦 Project Structure](#-project-structure)
 - [📄 License](#-license)
 
-</details>
 
 ---
 ### The Problem: Project Management is Broken
@@ -231,5 +229,5 @@ Built standing on the shoulders of giants.
 This project is open source and available under the [MIT License](./LICENSE).
 
 <div align="center">
-  <p>Built with ❤️ for <strong>[The UI Strikes Back](https://www.wemakedevs.org/hackathons/tambo)</strong> Hackathon</p>
+  <p>Built with ❤️ for <strong><a href="https://www.wemakedevs.org/hackathons/tambo">The UI Strikes Back</a></strong> Hackathon</p>
 </div>

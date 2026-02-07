@@ -244,12 +244,15 @@ export default function HomePage() {
             </div>
 
             <div className="flex items-center gap-4">
-              <button className="hidden sm:flex items-center gap-2 px-4 py-2 text-sm font-mono text-gray-300 border border-[#1a1a1a] hover:border-white transition-all bg-black uppercase group hover:scale-105">
-                <a href="https://github.com/thekishandev/smart-project-autopilot" target="_blank">
-                  <Star className="size-4 group-hover:rotate-180 transition-transform duration-500" />
-                  <span>GitHub_Star</span>
-                </a>
-              </button>
+              <a
+                href="https://github.com/thekishandev/smart-project-autopilot"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hidden sm:flex items-center gap-2 px-5 py-2 text-sm font-mono text-gray-300 border border-[#1a1a1a] hover:border-white transition-all bg-black uppercase group hover:scale-105"
+              >
+                <Star className="size-4 group-hover:rotate-90 transition-transform duration-500" />
+                <span>GitHub_Star</span>
+              </a>
               <a
                 href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fthekishandev%2Fsmart-project-autopilot&env=NEXT_PUBLIC_TAMBO_API_KEY,NEXT_PUBLIC_TAMBO_URL"
                 target="_blank"
