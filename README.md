@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/🎥_Live_Demo-Visit_Site-2ea44f?style=for-the-badge" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fsmart-project-autopilot">
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fthekishandev%2Fsmart-project-autopilot&env=NEXT_PUBLIC_TAMBO_API_KEY,NEXT_PUBLIC_TAMBO_URL">
     <img src="https://vercel.com/button" height="40" alt="Deploy with Vercel" />
   </a>
 
@@ -133,14 +133,14 @@ graph TD
 ### Option A: One-Click Setup (Recommended)
 Deploy directly to Vercel. You will need a Tambo API Key.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fsmart-project-autopilot)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%thekishandev%2Fsmart-project-autopilot)
 
 ### Option B: Local Development
 Run the "Mission Control" on your machine in 5 minutes.
 
 #### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/smart-project-autopilot.git
+git clone https://github.com/thekishandev/smart-project-autopilot.git
 cd smart-project-autopilot
 npm install
 ```
@@ -231,5 +231,5 @@ Built standing on the shoulders of giants.
 This project is open source and available under the [MIT License](./LICENSE).
 
 <div align="center">
-  <p>Built with ❤️ for <strong>The UI Strikes Back</strong> Hackathon</p>
+  <p>Built with ❤️ for <strong>[The UI Strikes Back](https://www.wemakedevs.org/hackathons/tambo)</strong> Hackathon</p>
 </div>
