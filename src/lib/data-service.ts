@@ -16,7 +16,7 @@ export type SprintData = ReturnType<typeof getSprintBoardData>;
 export type TeamData = ReturnType<typeof getTeamData>;
 export type GoalsData = ReturnType<typeof getGoalsData>;
 
-const USE_MOCK_DATA = process.env.NEXT_PUBLIC_USE_MOCK_DATA === 'true'; // Default to false (Real Data)
+const USE_MOCK_DATA = process.env.NEXT_PUBLIC_USE_MOCK_DATA === 'false'; // Default to false (Real Data)
 
 /**
  * Fetch Sprint Board Data
