@@ -11,6 +11,7 @@
   </p>
 
   <img src="./docs/hero.png" alt="Smart Project Autopilot Dashboard" width="100%" />
+  
 
   <h3>Context-Aware • Self-Generating • Zero-Latency</h3>
 
@@ -24,6 +25,8 @@
   <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fthekishandev%2Fsmart-project-autopilot&env=NEXT_PUBLIC_TAMBO_API_KEY,NEXT_PUBLIC_TAMBO_URL">
     <img src="https://vercel.com/button" height="40" alt="Deploy with Vercel" />
   </a>
+
+[![Smart Project Autopilot Demo](https://img.youtube.com/vi/802Sb1bnbqo/maxresdefault.jpg)](https://www.youtube.com/watch?v=802Sb1bnbqo)
 
 </div>
 
@@ -40,6 +43,7 @@
 
 
 ---
+## 🌟 The Problem & Solution
 ### The Problem: Project Management is Broken
 We spend more time **managing** work than **doing** it.
 Juggling tickets in Linear, checking PRs in GitHub, and conducting standups is a context-switching nightmare. Use a different tool for every action? **That's effectively a manual API call you perform with your mouse.**
