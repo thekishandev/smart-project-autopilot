@@ -9,7 +9,9 @@
     <a href="https://github.com/tambo-ai/tambo"><img src="https://img.shields.io/badge/Hackathon-The_UI_Strikes_Back-db2777?style=flat-square" alt="Hackathon" /></a>
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
   </p>
-
+  
+  # 📺 Project Demo
+  [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=802Sb1bnbqo)
   <img src="./docs/hero.png" alt="Smart Project Autopilot Dashboard" width="100%" />
   
 
@@ -25,8 +27,6 @@
   <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fthekishandev%2Fsmart-project-autopilot&env=NEXT_PUBLIC_TAMBO_API_KEY,NEXT_PUBLIC_TAMBO_URL">
     <img src="https://vercel.com/button" height="40" alt="Deploy with Vercel" />
   </a>
-
-[![Smart Project Autopilot Demo](https://img.youtube.com/vi/802Sb1bnbqo/maxresdefault.jpg)](https://www.youtube.com/watch?v=802Sb1bnbqo)
 
 </div>
 
